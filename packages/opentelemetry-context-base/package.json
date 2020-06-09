@@ -27,6 +27,7 @@
     "metrics",
     "stats"
   ],
+  "sideEffects": false,
   "author": "OpenTelemetry Authors",
   "license": "Apache-2.0",
   "engines": {
